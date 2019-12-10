@@ -1,0 +1,139 @@
+2019-12-10 14:37:05 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 14:37:05 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 14:37:09 INFO  Browser:39 - Timeout is 30
+2019-12-10 14:37:09 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 14:37:12 INFO  Browser:30 - Full screen mode is on
+2019-12-10 14:37:12 INFO  TC1:36 - Browser closes
+2019-12-10 14:37:40 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 14:37:40 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 14:37:41 INFO  Browser:39 - Timeout is 30
+2019-12-10 14:37:41 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 14:37:42 INFO  Browser:30 - Full screen mode is on
+2019-12-10 14:37:43 INFO  TC1:36 - Browser closes
+2019-12-10 14:52:58 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 14:52:58 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 14:52:59 INFO  Browser:39 - Timeout is 30
+2019-12-10 14:52:59 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 14:53:01 INFO  Browser:30 - Full screen mode is on
+2019-12-10 14:53:01 INFO  TC1:33 - iFrame page opening check
+2019-12-10 14:53:01 INFO  TC1:41 - Browser closes
+2019-12-10 15:10:17 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 15:10:17 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 15:10:18 INFO  Browser:39 - Timeout is 30
+2019-12-10 15:10:18 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 15:10:21 INFO  Browser:30 - Full screen mode is on
+2019-12-10 15:10:21 INFO  TC1:33 - iFrame page opening check
+2019-12-10 15:10:51 INFO  TC1:41 - Browser closes
+2019-12-10 15:12:22 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 15:12:22 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 15:12:23 INFO  Browser:39 - Timeout is 30
+2019-12-10 15:12:23 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 15:12:25 INFO  Browser:30 - Full screen mode is on
+2019-12-10 15:12:25 INFO  TC1:33 - iFrame page opening check
+2019-12-10 15:13:26 INFO  TC1:41 - Browser closes
+2019-12-10 15:49:59 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 15:49:59 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 15:50:00 INFO  Browser:39 - Timeout is 30
+2019-12-10 15:50:00 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 15:50:02 INFO  Browser:30 - Full screen mode is on
+2019-12-10 15:50:03 INFO  TC1:35 - iFrame page opening check
+2019-12-10 15:50:33 INFO  TC1:45 - Browser closes
+2019-12-10 16:05:25 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 16:05:25 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 16:05:26 INFO  Browser:39 - Timeout is 30
+2019-12-10 16:05:26 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 16:05:27 INFO  Browser:30 - Full screen mode is on
+2019-12-10 16:05:28 INFO  TC1:34 - iFrame page opening check
+2019-12-10 16:05:28 INFO  Browser:44 - Switching to the frame
+2019-12-10 16:05:58 INFO  TextBox:15 - TextBox is cleared
+2019-12-10 16:05:58 INFO  TextBox:20 - TextBox takes b95be148-3624-493d-91d5-2b633cce5257
+2019-12-10 16:05:58 INFO  TC1:39 - Check if text is written
+2019-12-10 16:05:58 INFO  TC1:46 - Browser closes
+2019-12-10 16:13:12 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 16:13:12 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 16:13:13 INFO  Browser:39 - Timeout is 30
+2019-12-10 16:13:13 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 16:13:15 INFO  Browser:30 - Full screen mode is on
+2019-12-10 16:13:15 INFO  TC1:34 - iFrame page opening check
+2019-12-10 16:13:15 INFO  Browser:44 - Switching to the frame
+2019-12-10 16:13:45 INFO  TextBox:15 - TextBox is cleared
+2019-12-10 16:13:45 INFO  TextBox:20 - TextBox takes 44f6769f-ed09-4cda-acd0-1b2695e7f7df
+2019-12-10 16:13:45 INFO  TC1:39 - Check if text is written
+2019-12-10 16:13:46 INFO  TC1:46 - Browser closes
+2019-12-10 16:28:30 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 16:28:30 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 16:28:31 INFO  Browser:39 - Timeout is 30
+2019-12-10 16:28:31 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 16:28:33 INFO  Browser:30 - Full screen mode is on
+2019-12-10 16:28:33 INFO  TC1:34 - iFrame page opening check
+2019-12-10 16:28:33 INFO  Browser:44 - Switching to the frame
+2019-12-10 16:29:03 INFO  TextBox:15 - TextBox is cleared
+2019-12-10 16:29:03 INFO  TextBox:20 - TextBox takes 21022002-eca9-4dfa-af6b-daafd2a50dce
+2019-12-10 16:29:03 INFO  TC1:39 - Check if text is written
+2019-12-10 16:29:03 INFO  TextBox:20 - TextBox takes a
+2019-12-10 16:29:04 INFO  TC1:49 - Browser closes
+2019-12-10 16:29:16 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 16:29:16 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 16:29:17 INFO  Browser:39 - Timeout is 30
+2019-12-10 16:29:17 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 16:29:19 INFO  Browser:30 - Full screen mode is on
+2019-12-10 16:29:19 INFO  TC1:34 - iFrame page opening check
+2019-12-10 16:29:19 INFO  Browser:44 - Switching to the frame
+2019-12-10 16:29:49 INFO  TextBox:15 - TextBox is cleared
+2019-12-10 16:29:49 INFO  TextBox:20 - TextBox takes ad75a65e-423a-4b4a-b41d-a62c9dc981f7
+2019-12-10 16:29:49 INFO  TC1:39 - Check if text is written
+2019-12-10 16:29:49 INFO  TextBox:20 - TextBox takes a
+2019-12-10 16:29:49 INFO  TC1:49 - Browser closes
+2019-12-10 17:04:45 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 17:04:45 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 17:04:46 INFO  Browser:39 - Timeout is 30
+2019-12-10 17:04:46 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 17:04:48 INFO  Browser:30 - Full screen mode is on
+2019-12-10 17:04:48 INFO  TC1:34 - iFrame page opening check
+2019-12-10 17:04:48 INFO  Browser:44 - Switching to the frame
+2019-12-10 17:05:18 INFO  TextBox:16 - TextBox is cleared
+2019-12-10 17:05:18 INFO  TextBox:21 - TextBox takes 610725a7-8c1a-4c88-8c0e-18fdd90edfeb
+2019-12-10 17:05:18 INFO  TC1:38 - Check if text is written
+2019-12-10 17:05:18 INFO  TextBox:21 - TextBox takes a
+2019-12-10 17:05:19 INFO  TC1:48 - Browser closes
+2019-12-10 17:31:38 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 17:31:38 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 17:31:39 INFO  Browser:39 - Timeout is 30
+2019-12-10 17:31:39 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 17:31:40 INFO  Browser:30 - Full screen mode is on
+2019-12-10 17:31:41 INFO  TC1:34 - iFrame page opening check
+2019-12-10 17:31:41 INFO  Browser:44 - Switching to the frame
+2019-12-10 17:32:11 INFO  TextBox:16 - TextBox is cleared
+2019-12-10 17:32:11 INFO  TextBox:21 - TextBox takes 398cb74d-a5a0-4808-8b92-0d5ad57d05d7
+2019-12-10 17:32:11 INFO  TC1:38 - Check if text is written
+2019-12-10 17:32:11 INFO  TextBox:21 - TextBox takes a
+2019-12-10 17:32:11 INFO  BaseElement:22 - mce-i-bold click
+2019-12-10 17:32:11 INFO  TC1:48 - Browser closes
+2019-12-10 17:36:55 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 17:36:55 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 17:36:56 INFO  Browser:39 - Timeout is 30
+2019-12-10 17:36:56 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 17:36:58 INFO  Browser:30 - Full screen mode is on
+2019-12-10 17:36:58 INFO  TC1:34 - iFrame page opening check
+2019-12-10 17:36:58 INFO  Browser:44 - Switching to the frame
+2019-12-10 17:37:28 INFO  TextBox:16 - TextBox is cleared
+2019-12-10 17:37:28 INFO  TextBox:21 - TextBox takes e933fa1d-b95b-415b-9d36-e31d50d39760
+2019-12-10 17:37:28 INFO  TC1:38 - Check if text is written
+2019-12-10 17:37:28 INFO  TextBox:21 - TextBox takes a
+2019-12-10 17:37:28 INFO  BaseElement:22 - mce-i-bold click
+2019-12-10 17:37:28 INFO  TC1:43 - Check if text is bold
+2019-12-10 17:37:29 INFO  TC1:50 - Browser closes
+2019-12-10 17:37:56 INFO  BrowserFactory:21 - Language of web-site is en
+2019-12-10 17:37:56 INFO  BrowserFactory:25 - Chosen browser is chrome
+2019-12-10 17:37:57 INFO  Browser:39 - Timeout is 30
+2019-12-10 17:37:57 INFO  Browser:25 - Go to http://the-internet.herokuapp.com/iframe
+2019-12-10 17:38:00 INFO  Browser:30 - Full screen mode is on
+2019-12-10 17:38:00 INFO  TC1:34 - iFrame page opening check
+2019-12-10 17:38:00 INFO  Browser:44 - Switching to the frame
+2019-12-10 17:38:30 INFO  TextBox:16 - TextBox is cleared
+2019-12-10 17:38:30 INFO  TextBox:21 - TextBox takes f29f3c41-2a8f-42f6-9afb-160891c7d90d
+2019-12-10 17:38:30 INFO  TC1:38 - Check if text is written
+2019-12-10 17:38:30 INFO  TextBox:21 - TextBox takes a
+2019-12-10 17:38:30 INFO  BaseElement:22 - mce-i-bold click
+2019-12-10 17:38:30 INFO  TC1:43 - Check if text is bold
+2019-12-10 17:38:30 INFO  TC1:50 - Browser closes
